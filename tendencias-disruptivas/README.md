@@ -23,7 +23,7 @@ Ingeniero Industrial, Universidad de Córdoba. Montería - Córdoba.
 ####Competencias Personales
 -	asertividad
 -	pensamiento estratégico
--	dispocicion hacia el trabajo
+-	disposicion hacia el trabajo
 -	capacidad de negociación
 
 
