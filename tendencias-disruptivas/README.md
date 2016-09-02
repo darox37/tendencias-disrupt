@@ -1,12 +1,12 @@
 # Curriculum Vitae
 Darío Fernando López Pérez
 
-![](https://github.com/darox37/tendencias-disrupt/blob/master/tendencias-disruptivas/foto%20dario.png)
+![](https://github.com/darox37/tendencias-disrupt/blob/master/tendencias-disruptivas/foto.jpg)
 
 ####Telefono Movil				3116941430
 ####E-mail				darox37@ hotmail.com
 
-##Perfil Profesional
+####Perfil Profesional
 Soy  Ingeniero industrial con conocimientos en ISO 9000 para el manejo de sistemas de gestión de calidad. Elaboración de programas comunitarios que lleven implícito el mejoramiento de la calidad de vida de las personas.
 Puedo desempeñar cargos como: docente de matemáticas en los niveles de básica primaria, básica secundaria y media vocacional, tengo conocimientos  teorico-practicos en el área de la docencia. 
 Además puedo participar como asesor en las áreas de: Elaboración y evaluación de proyectos de inversión; Elaboración de manuales de funciones y de procedimientos de trabajo, diseño e implementación de estructuras salariales y políticas de incentivo, diseño y puesta en marcha de sistemas integrales de producción y calidad. 
@@ -15,11 +15,12 @@ Soy una persona perseverante, dinámica, responsable y con habilidades para el t
 ####Formación Académica	
 Ingeniero Industrial, Universidad de Córdoba. Montería - Córdoba.
 
-## Áreas de Interés
+#### Áreas de Interés
 - desarrollo empresarial
 - emprendimiento 
 - negocios
-## Competencias Personales
+
+####Competencias Personales
 -	asertividad
 -	pensamiento estratégico
 -	dispocicion hacia el trabajo
@@ -28,7 +29,7 @@ Ingeniero Industrial, Universidad de Córdoba. Montería - Córdoba.
 
 ## Experiencia Académica e Investigativa
 
-diagnostico sobre implementacion y conocimiento de las normas ISO en la ciudad de Montería
+Tesis: Diagnóstico sobre implementación y conocimiento de las normas ISO en la ciudad de Montería (2008)
 
 ## Otros,  cursos, seminarios  o  congresos  
 “Liderazgo personal para  liderar  a otros” PHILI POTDEVIN. Montería, diciembre 5 de 2005
@@ -40,6 +41,7 @@ Auditoría interna de calidad. Intensidad: 40 horas. SENA. Ibagué, 10 De Julio 
 
 ## Experiencia Laboral
 ####Institucion Educativa Pedro Castellanos (Docente de matemáticas (2013-?))
+
 ####Constructora V&Q (2009) Ingeniero residente
 
 
